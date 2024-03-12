@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import'./index.html';
+
+.navbar{
+    display: flex;
+    flex-direction: column;
+}
